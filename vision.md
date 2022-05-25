@@ -12,6 +12,12 @@
   - where is data? (see data section below)
   - what statistical analysis would make sense?
   
+- Risk assessment on a network from a modelling perspective:
+a) A network of connected PCs, servers, endpoints, etc can be thought of a connected graph, with a certain network topology
+b) A Malware/virus ... can be thought of as an infected node in the graph
+c) the Math theory of this scenario has been well developed and I have been working on it too,
+d) this model can  be simulated and the output would be the infected nodes after time t
+  
 ## Data
 
 - [Multi-Label Dataset of Internet Traffics (MLDIT)](https://www.kaggle.com/datasets/artemis1216/multi-label-dataset-of-internet-traffics)
