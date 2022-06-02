@@ -17,6 +17,12 @@ a) A network of connected PCs, servers, endpoints, etc can be thought of a conne
 b) A Malware/virus ... can be thought of as an infected node in the graph
 c) the Math theory of this scenario has been well developed and I have been working on it too,
 d) this model can  be simulated and the output would be the infected nodes after time t
+
+- LinkedIn Data analysis:
+  - sources: (i)<https://rpubs.com/phylliswany/98000>, (ii) <https://cran.r-project.org/web/packages/Rlinkedin/>  what is this package?
+  - 2 potential things to be considered:
+    - career suggestion analysis
+    - Automating LinkedIn profile/connection management (ie., sorting, connecting, reconnecting to people, etc.)
   
 ## Data
 
