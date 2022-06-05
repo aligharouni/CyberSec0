@@ -23,6 +23,8 @@ d) this model can  be simulated and the output would be the infected nodes after
   - 2 potential things to be considered:
     - career suggestion analysis
     - Automating LinkedIn profile/connection management (ie., sorting, connecting, reconnecting to people, etc.)
+
+-
   
 ## Data
 
